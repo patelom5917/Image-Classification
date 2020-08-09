@@ -20,3 +20,5 @@ Dogs vs Cats app Using Deep Learning - CNN from Canvas build on tkinter- GUI
 * Use saved model 'cats_and_dogs_small_2.h5' to predict saved dogs vs cats classification image from canvas
 
 # Screenshots
+
+* Input image
