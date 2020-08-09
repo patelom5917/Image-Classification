@@ -22,3 +22,9 @@ Dogs vs Cats app Using Deep Learning - CNN from Canvas build on tkinter- GUI
 # Screenshots
 
 * Input image
+
+![Input](image/input_dog.jpg?raw=true)
+
+* Output Image
+
+![Output](image/input_dog.jpg?raw=true)
