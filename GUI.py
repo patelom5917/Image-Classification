@@ -34,9 +34,9 @@ def classify(file_path):
     print(pred)
     #sign = classes[pred]
     if(pred== [0]):
-        sign='its a cat'
+        sign='it is a cat'
     else:
-        sign='its a dog'
+        sign='it is a dog'
     
     label.configure(foreground='#011638', text=sign) 
     
